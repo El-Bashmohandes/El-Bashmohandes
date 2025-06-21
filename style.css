@@ -226,7 +226,7 @@ a{
 /* <!-- ------------------------------------------------------------------------------------------------------ --> */
 /* start about me  */
 .con{
-    height: 400px;
+    height: 350px;
     width: 100%;
     background: rgba(255, 255, 255, 0);
     /* position: relative; */
@@ -269,7 +269,7 @@ a{
 }
 .container::after{
     right: 60px ;
-    bottom: -265px;
+    bottom: -200px;
     z-index: -1;
     animation-name: ca;
     animation-duration: 1.5s;
